@@ -19,3 +19,8 @@ body{
 .Menu{
     background-color: teal;
 }
+
+#pcfoto{
+    width: 500px;
+    height: auto;
+}
